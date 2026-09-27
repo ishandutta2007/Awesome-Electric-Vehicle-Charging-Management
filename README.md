@@ -60,7 +60,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 The open-source EV charging ecosystem offers production-grade **CSMS backends**, **microcontroller firmware**, **ISO 15118 V2G engines**, and **OCPP protocol libraries**.
 
-*Repos are sorted below by GitHub Stars_Count (descending):*
+*Repos are sorted below by GitHub_Stars_Count (descending):*
 
 ### 🌟 Open-Source Repositories Directory
 
