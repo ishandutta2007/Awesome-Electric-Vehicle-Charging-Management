@@ -132,7 +132,11 @@ The open-source EV charging ecosystem offers production-grade **CSMS backends**,
     - **Tech & License**: `Go` | `MIT`
     - Scalable Go microservices implementation of OCPP 2.0.1 CSMS server.
 
-18. **[CIP.io Link](https://github.com/cip-io/cip-io-link)** 🔌 <a href="https://github.com/cip-io/cip-io-link/stargazers"><img src="https://img.shields.io/github/stars/cip-io/cip-io-link?style=social" alt="CIP.io Link Stars"/></a>
+18. **[EVtivity CSMS](https://github.com/EVtivity/evtivity-csms)** ⚡ <a href="https://github.com/EVtivity/evtivity-csms/stargazers"><img src="https://img.shields.io/github/stars/EVtivity/evtivity-csms?style=social" alt="EVtivity CSMS Stars"/></a>
+    - **Tech & License**: `TypeScript` | `BUSL-1.1`
+    - Self-hosted Charging Station Management System for OCPP 1.6 and 2.1 (2.0.1 compatible), with OCPI 2.2.1/2.3.0 roaming, ISO 15118 Plug & Charge, load management, a driver portal and app, and a station simulator. Source-available under the Business Source License 1.1, free for a single operator's own network.
+
+19. **[CIP.io Link](https://github.com/cip-io/cip-io-link)** 🔌 <a href="https://github.com/cip-io/cip-io-link/stargazers"><img src="https://img.shields.io/github/stars/cip-io/cip-io-link?style=social" alt="CIP.io Link Stars"/></a>
     - **Tech & License**: `Python` | `BSD-3-Clause`
     - Vendor-neutral local EV charging controller developed by Argonne National Laboratory (ANL) supporting OCPP 1.6J.
 
